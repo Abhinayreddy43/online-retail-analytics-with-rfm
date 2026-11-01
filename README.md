@@ -166,6 +166,8 @@ python test_app.py
 
 **Completed:** Interactive retail business overview and customer RFM analytics dashboard.
 
-**Author:** Abhinay Reddy
+**Author:** Abhinay Reddy Tippireddy
 
 **GitHub:** https://github.com/Abhinayreddy43
+
+**Live dashboard:** https://online-retail-analytics-with-rfm-xscjwxxzbvg2hyusyjqu9z.streamlit.app/
